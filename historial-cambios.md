@@ -11,3 +11,7 @@
 ### Registro 3
 * **Fecha:** 13 de Octubre de 2026
 * **Descripción:** Creación y configuración del archivo historial-cambios.md con el registro de modificaciones del proyecto.
+
+### Registro 4
+* **Fecha:** 13 de Octubre de 2026
+* **Descripción:** Actualización del historial de cambios desde la rama desarrollo para integración vía Pull Request.
